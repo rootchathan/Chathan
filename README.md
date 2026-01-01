@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=footer&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Input%20text&section=footer&reversal=true />
 </div>
